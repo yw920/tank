@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="13" height="13" tilewidth="32" tileheight="32" nextobjectid="19">
+ <tileset firstgid="1" name="tile" tilewidth="32" tileheight="32">
+  <image source="tile.png" width="224" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="canThrough" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="canThrough" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="canThrough" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="canThrough" value="false"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="canThrough" value="false"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="canThrough" value="false"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="canThrough" value="false"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="layer1" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJydUlsKACAM2uP+d+4rMtOChLG2dMYoYqFiB9eINJw0mc/YQ25deArs30ZT1G/wa9I5reLMaAj0mj7q3XjncsW5a7VbrtW8165fmh/c/oGby74DjGQAZg==
+  </data>
+ </layer>
+ <objectgroup name="object">
+  <object id="3" name="startPos" x="130" y="387" width="29" height="26"/>
+ </objectgroup>
+</map>

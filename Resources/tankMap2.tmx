@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="34" height="26" tilewidth="16" tileheight="16" nextobjectid="11">
+ <tileset firstgid="1" name="tile" tilewidth="16" tileheight="16">
+  <image source="tile.png" width="288" height="32"/>
+ </tileset>
+ <layer name="waterLayer" width="34" height="26">
+  <data encoding="base64" compression="zlib">
+   eJzt0zEOACAIQ1FW3XDVTe9/RjkCxGCN6dD8mZegItJsCu60rQeKdqDHHx7FVh3N9ui24eipR/S+LI/ofVke6KL/hB70oAc96EEPetzrBm7tWiM=
+  </data>
+ </layer>
+ <layer name="layer1" width="34" height="26">
+  <data encoding="base64" compression="zlib">
+   eJzdl0sLAjEMhFdh1Yt7UfBx0f//K80lsA5OZ/oQwQ9CYJuEJG2qnaZ3NiHblUZwXdnNITsjDnIKOa+0Wld2l5CrEQfzyfxZvqpOtHPBejJ/Vq+qk8VVsLxVvaPjsrxVvYrauLX7qFB9QJ3U7qNC9QE15vltcM5wHnvPgQvOGbs/1D2p7Hr92f3I7o1a7frvQw4FnSi7Xv9byL2gE2XX6/8rRs2p+/vPUPdq7heb90SdS+aP8ZGMk/vF5t2F+WN8hOXb2nfm39oP1XeWJ/NX/ajF/X/4r7Sej9F86nvpDLfuk/sewW/HkIWsOe8fxH2P4LdHyJOsOe+f5AU09xK5
+  </data>
+ </layer>
+ <objectgroup name="objects">
+  <object id="10" name="startPos" x="201" y="390" width="9" height="25"/>
+ </objectgroup>
+</map>
